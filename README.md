@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Devops tools**
 
-- 💬 Ask me about **Java, Srpingboot, SQl**
+- 💬 Ask me about **Java, Springboot, SQl**
 
 - 📫 How to reach me **ashutoshgoswami05@gmail.com**
 
