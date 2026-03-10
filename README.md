@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgoswami05&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgoswami05" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Devops tools**
+- 🌱 I’m currently learning **LLM, Agentic AI, AI Architecture, Devops tools**
 
 - 💬 Ask me about **Java, Springboot, SQl**
 
